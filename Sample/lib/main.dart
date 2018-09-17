@@ -10,7 +10,7 @@ void main() {
           home: new Scaffold(
             // App toolbar code
               appBar: new AppBar(
-                title: new Text('Movies'),
+                title: new Text('My Movies'),
               ),
               body: new MovieList()
           )
